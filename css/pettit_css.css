@@ -14,7 +14,7 @@ body{
         height: 100vh;
         padding-top: 8rem;
         padding-bottom: 8rem;
-        background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("img/3766395.jpg") ;
+        background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../img/3766395.jpg") ;
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
