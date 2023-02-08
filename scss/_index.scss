@@ -1,0 +1,36 @@
+$colorPrincipal:#6170BD;
+
+body {
+    margin: 0;
+}
+
+nav{
+    .navbar{
+        background-color: $colorPrincipal;
+        color: white;
+    }
+}
+
+header{
+    .header_img {
+        position: relative;
+        display: table;
+        width: 100%;
+        height: 100vh;
+        padding-top: 8rem;
+        padding-bottom: 8rem;
+        background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../img/3766395.jpg") ;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+}
+
+
+footer{
+    .footerIndex {
+        .footer-color{ 
+            background-color: $colorPrincipal;
+        }
+    }
+}
