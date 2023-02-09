@@ -1,3 +1,19 @@
 body {
     margin: 0;
 }
+
+section{
+    .titulo-nosotros{
+        color: $colorPrincipal;
+        }  
+    
+    .texto-nosotros{
+        color: $colorPrincipal;
+    }
+}
+
+.sobreNosotros{
+    .footer-color{ 
+        background-color: $colorPrincipal;
+    }
+}

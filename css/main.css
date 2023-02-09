@@ -1,0 +1,64 @@
+body {
+  margin: 0; }
+
+header .navbar {
+  background-color: #6170BD;
+  color: white; }
+
+header .header_img {
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 100vh;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../img/3766395.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.footerIndex .footer-color {
+  background-color: #6170BD; }
+
+body {
+  margin: 0; }
+
+section .titulo-nosotros {
+  color: #6170BD; }
+
+section .texto-nosotros {
+  color: #6170BD; }
+
+.sobreNosotros .footer-color {
+  background-color: #6170BD; }
+
+body {
+  margin: 0; }
+
+.footerNovedades .footer-color {
+  background-color: #6170BD; }
+
+body {
+  margin: 0; }
+
+section .section-titulo {
+  height: 7rem;
+  text-align: center; }
+
+section .titulo-cuidadores {
+  color: #6170BD; }
+
+section .cards-cuidadores {
+  margin: 4rem; }
+
+.footerCuidadores .footer-color {
+  background-color: #6170BD; }
+
+body {
+  margin: 0; }
+
+section .texto-perfil {
+  color: #6170BD; }
+
+.footerPerfil .footer-color {
+  background-color: #6170BD; }

@@ -1,3 +1,22 @@
 body {
     margin: 0;
 }
+
+section{
+    .section-titulo{
+        height: 7rem;
+        text-align: center;
+    }
+    .titulo-cuidadores{
+        color: $colorPrincipal;
+    }
+    .cards-cuidadores{
+        margin: 4rem;
+    }
+}
+
+.footerCuidadores{
+    .footer-color{ 
+        background-color: $colorPrincipal;
+    }
+}
